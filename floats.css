@@ -25,16 +25,19 @@ section {
 }
 
 #left {
+  color: #fff;
   width: 33.33%;
 }
 
 #middle {
   background: #888;
   width: 33.33%;
+  color: #fff;
 }
 
 #right {
   width: 33.33%;
+  color: #fff;
 }
 
 #full {
